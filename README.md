@@ -1,7 +1,3 @@
-### Welcome to my github profile
-
-  * Im currently learning SQL & Java
-
 ## How to reach me
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miquelangelamengual)
