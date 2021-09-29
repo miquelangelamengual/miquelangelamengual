@@ -1,4 +1,6 @@
-### Welcome to my github profile. 👋
+### Welcome to my github profile
+
+  * Im currently learning SQL & Java
 
 ### How to reach me
 
