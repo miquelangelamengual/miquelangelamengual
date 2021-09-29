@@ -2,7 +2,7 @@
 
   * Im currently learning SQL & Java
 
-### How to reach me
+## How to reach me
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miquelangelamengual)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InfinityHvlk)
