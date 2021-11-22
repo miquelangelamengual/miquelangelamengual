@@ -1,3 +1,8 @@
+### Hi there, my name is Miquel Angel.
+
+- Learning java.
+- Currently learning the Bukkit API.
+
 ## How to reach me
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miquelangelamengual)
