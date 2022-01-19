@@ -1,7 +1,8 @@
 ### Hi there, my name is Miquel Angel.
 
 - Learning java.
-- Currently learning the Bukkit API.
+- Currently learning the Bukkit API & Java API.
+- I dont give support to my open-sourced projects.
 
 ## How to reach me
 
